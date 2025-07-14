@@ -4,6 +4,3 @@ LifeX 3D is a dynamic sandbox playground where you control the chaos. Explore vi
 
 
 
-
-Updates (Beta - now)
-Beta 1.0 - Added city map
